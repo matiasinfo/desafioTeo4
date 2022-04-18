@@ -11,7 +11,7 @@
     arhivo de texto el cual contiene dicha lista
 
 ## segunda parte
-    primer requerimiento:
+    segundo requerimiento:
     utilizando la lista de las peliculas , generamos una lista de paiese
     con la cual a travez de clase Counter nos brinda los nombres de 
     los 5 paises con mas producciones del año 2021  
